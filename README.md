@@ -1,3 +1,28 @@
+# Funman
+
+__说明__：这个是我自己的博客的主题，根据[Pacman](http://A-limon.github.io/pacman.git)修改而来,原作者信息请访问[Alimon's Blog](http://yangjian.me)。后面附带Pacman的README，更多信息可以从哪里获取！
+
+您可以访问我的个人空间，来[**Preview**](http://code4fun.cn)此主题
+
+### 安装
+安装很简单，用下面的命令就可以了。
+
+```
+git clone https://github.com/leezhm/funman.git themes/funland
+```
+> 注意，因为这个里面有很多是我自己的配置，包括一些公开的账号，所以最好的方法推荐[**Fork**](http://code4fun.cn/2013-09-28/how-to-fork-a-repo-from-github/)这个主题，然后根据你自己的信息进行配置。
+
+
+### 支持
+
+* 有任何问题，欢迎大家通过[**Github Issue**](https://github.com/leezhm/funman/issues)来提交你的问题，我尽可能快地回答我能够回答的问题。
+
+* 也欢迎大家通过[**Github Pull Request**](https://github.com/leezhm/funman/pulls)来共同修改，完善此主题。
+
+
+### 更新日志
+
+
 # Pacman
 
 Pacman is a flat and responsive design theme for [Hexo](http://zespia.tw/hexo/).
