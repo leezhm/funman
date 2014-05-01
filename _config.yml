@@ -77,6 +77,9 @@ jiathis:
   id:    ## e.g. 1501277 your jiathis ID. 
   tsina: ## e.g. 1664838973 Your weibo id,It will be used in share button.
 
+#### Baidu Analytics
+baidu_analytics: true
+
 #### Analytics
 google_analytics:
   enable: false
